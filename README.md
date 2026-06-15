@@ -1,131 +1,71 @@
 # ⚡ Shihab Uddin
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Backend+Architect+%7C+DevOps+Engineer;Building+Systems+That+Never+Sleep;Kafka+%2B+RabbitMQ+%2B+K8s+%3D+%E2%9D%A4%EF%B8%8F;CI%2FCD+Pipeline+Enthusiast" alt="Typing SVG" />
-</p>
+**`Backend Architect | DevOps Enthusiast | Scalable Systems`**
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://facebook.com/shihab.mahmod.33)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/shihab-uddin-shihab-631115131)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:shihabmahmod58@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shihab.mahmod.33)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shihab-uddin-shihab-631115131)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shihabmahmod58@gmail.com)
 
 ---
 
-## 🎯 The Architect's Mindset
+## 🧠 Beyond the Bio
 
-```diff
-+ "I don't write code — I orchestrate systems that breathe."
-🔹 Currently: Building distributed monsters at GeniusOcean
-🔹 Mission: Zero downtime. Infinite scalability. Pure elegance.
-🔹 Philosophy: If it's not containerized, it doesn't exist.
+> *“Building systems that don't break at 3 AM.”*
 
-🔥 Tech Universe
-🎪 Core Backend
-<p> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> </p>
-📨 Message Brokers (The Nervous System)
-<p> <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" /> <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> </p>
-🐳 DevOps Galaxy
-<p> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" /> <img src="https://img.shields.io/badge/VPS-6A0DAD?style=for-the-badge&logo=vultr&logoColor=white" /> </p>
-🗄️ Database Layer
-<p> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white" /> </p>
-🎨 Frontend (When Needed)
-<p> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /> </p>
-📊 Developer Dashboard
+I'm a backend-heavy full-stack developer with a growing obsession for **distributed systems**, **message-driven architectures**, and **infrastructure automation**. At GeniusOcean, I'm not just writing code — I'm designing resilience.
+
+**Currently deep-diving into:** Event-driven patterns, container orchestration, and zero-downtime deployments.
+
+---
+
+## 🧰 Tech Arsenal
+
+### 🚀 Backend Core
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+
+### 🧩 Messaging & Streams
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?style=flat-square&logo=rabbitmq&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/kafka-%23231F20.svg?style=flat-square&logo=apache-kafka&logoColor=white)
+
+### 🐳 DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
+![VPS](https://img.shields.io/badge/VPS-6A0DAD?style=flat-square&logo=ubuntu&logoColor=white)
+
+### 💾 Databases & Caching
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
+
+### 🎨 Frontend (when needed)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
+
+---
+
+## 📈 GitHub Analytics
+
 <div align="center">
-🚀 Metric	📈 Status
-💻 Years of Experience	4+ Years
-🔥 Projects Completed	25+
-🐳 Containers Launched	100+
-☕ Coffee Consumed	∞
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ShihabMahmod&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShihabMahmod&theme=dark&hide_border=true" />
 </div>
-🎨 Contribution Activity
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShihabMahmod&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&custom_title=Code%20Activity%20Heatmap" width="90%"> </p>
-🏆 Achievement Wall
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ShihabMahmod&theme=darkhub&no-frame=true&row=1&column=6&margin-w=15" width="90%"> </p>
-🧩 Daily Workflow
-text
-┌─────────────────────────────────────────────────────┐
-│                   MY DEV OPS FLOW                    │
-├─────────────────────────────────────────────────────┤
-│                                                      │
-│   💻 Write Code                                      │
-│       ↓                                              │
-│   🐳 Docker Build                                    │
-│       ↓                                              │
-│   📦 Push to Registry                                │
-│       ↓                                              │
-│   ☸️  Kubernetes Deploy                              │
-│       ↓                                              │
-│   📨 RabbitMQ / Kafka Event                          │
-│       ↓                                              │
-│   📊 Monitor & Scale                                 │
-│       ↓                                              │
-│   🔄 CI/CD Pipeline Complete                         │
-│                                                      │
-└─────────────────────────────────────────────────────┘
-🎯 Current Focus
-yaml
-🎓 learning_path:
-  - Kubernetes Operators
-  - Kafka Streams
-  - ArgoCD GitOps
-  - Istio Service Mesh
 
-🎯 sprint_goal:
-  - Reduce deployment time by 40%
-  - Implement event-driven auth
-  - Migrate 3 services to K8s
-  - Set up RabbitMQ cluster
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShihabMahmod&layout=compact&theme=dark&hide_border=true&langs_count=8" />
+</div>
 
-💭 mantra: "Keep it stateless, keep it moving"
-🎭 Code Weather Report
-python
-# Today's forecast in the server room
+---
 
-def system_status():
-    uptime = "99.99%"
-    pending_deploys = 2
-    broken_pipelines = 0
-    mood = "😎 SMOKING"
-    
-    return {
-        "status": "All systems operational",
-        "downtime": "Never",
-        "vibe": "Building the future",
-        "message": "Deploy with confidence 🚀"
-    }
+## 🧩 Fun Zone
 
-print(system_status())
-📈 Real-time Stats
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShihabMahmod&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&icon_color=00FFAA&title_color=00FFAA" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShihabMahmod&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFAA" /> </div>
-🔥 Streak Status
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShihabMahmod&theme=react&hide_border=true&background=0D1117&stroke=00FFAA&ring=00FFAA&fire=00FFAA&currStreakLabel=00FFAA" /> </div>
-📫 Let's Connect & Build Something Epic
-bash
-# Reach me via
-npx shihab-mahmod
-
-# Or send a pull request to reality
-curl -X POST https://github.com/ShihabMahmod \
-  -H "Content-Type: collaboration" \
-  -d '{"message":"Let's build the future"}'
-🎧 Currently Playing
-<p align="center"> <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify" /> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ShihabMahmod&label=👁️ VISITOR_COUNT&color=00FFAA&style=for-the-badge" /> <img src="https://img.shields.io/github/followers/ShihabMahmod?label=📛 FOLLOWERS&style=for-the-badge&color=00FFAA" /> <img src="https://img.shields.io/github/stars/ShihabMahmod?label=⭐ STARS&style=for-the-badge&color=00FFAA" /> </p><p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"> </p> ```
-✅ This README Includes:
-✅ RabbitMQ & Kafka badges
-
-✅ Docker, Kubernetes, AWS badges
-
-✅ VPS, CI/CD (GitHub Actions)
-
-✅ No broken GitHub Analytics (I used working APIs)
-
-✅ Working stats (github-readme-stats, streak-stats, activity-graph)
-
-✅ Creative ASCII flow diagram
-
-✅ Code Weather Report
-
-✅ Working Spotify widget (optional, remove if you want)
-
-✅ Cool terminal commands
+```yaml
+current_obsession: "Event-driven microservices"
+learning: ["Kafka Streams", "ArgoCD", "Istio"]
+terminal_tip: "alias please='sudo $(history -p !!)'"

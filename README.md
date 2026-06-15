@@ -53,13 +53,17 @@ I'm a backend-heavy full-stack developer with a growing obsession for **distribu
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ShihabMahmod&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ShihabMahmod&show_icons=true&theme=dark&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShihabMahmod&theme=dark&hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShihabMahmod&layout=compact&theme=dark&hide_border=true&langs_count=8" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShihabMahmod&layout=compact&theme=dark&hide_border=true" />
 </div>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ShihabMahmod&theme=darkhub&no-frame=true&row=2&column=4" width="80%">
+</p>
 
 ---
 

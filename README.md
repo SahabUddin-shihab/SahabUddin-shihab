@@ -2,7 +2,6 @@
 
 **`Backend Architect | DevOps Enthusiast | Scalable Systems`**
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shihab.mahmod.33)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shihab-uddin-shihab-631115131)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahabuddinwd@gmail.com)
 
